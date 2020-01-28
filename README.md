@@ -10,8 +10,9 @@ The purpose of this repository is to track changes to ADMB code in developing a 
 
 
 TO DO LIST:
-Remove selectivity blocks for cH and cO
-Modify selectivities to match SEDAR 36
+- Remove size limits
+- Remove selectivity blocks for cH and cO
+- Modify selectivities to match SEDAR 36
   - CVT logistic exponential
   - vll logistic (done)
   - cH logistic
